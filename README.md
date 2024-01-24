@@ -1,2 +1,2 @@
 # Subenum
-#this is a automation script to automate the recon phase in bug bounty program 
+#this is a automation script to provide a comprehensive solution for discovering and mapping subdomains associated with a target domain.
